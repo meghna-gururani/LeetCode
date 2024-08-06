@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meghna-gururani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2048-build-array-from-permutation](https://github.com/meghna-gururani/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/meghna-gururani/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/meghna-gururani/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/meghna-gururani/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
