@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/meghna-gururani/LeetCode/tree/master/0273-integer-to-english-words) |
+| [2238-a-number-after-a-double-reversal](https://github.com/meghna-gururani/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Recursion
 |  |
 | ------- |
