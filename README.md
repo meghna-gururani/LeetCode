@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/meghna-gururani/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/meghna-gururani/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/meghna-gururani/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/meghna-gururani/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/meghna-gururani/LeetCode/tree/master/0273-integer-to-english-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/meghna-gururani/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/meghna-gururani/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/meghna-gururani/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna-gururani/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/meghna-gururani/LeetCode/tree/master/0273-integer-to-english-words) |
+## Two Pointers
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/meghna-gururani/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
