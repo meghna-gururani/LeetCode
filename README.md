@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghna-gururani/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1791-richest-customer-wealth](https://github.com/meghna-gururani/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/meghna-gururani/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2048-build-array-from-permutation](https://github.com/meghna-gururani/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/meghna-gururani/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/meghna-gururani/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/meghna-gururani/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
