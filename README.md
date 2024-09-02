@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/meghna-gururani/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/meghna-gururani/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/meghna-gururani/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/meghna-gururani/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/meghna-gururani/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/meghna-gururani/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/meghna-gururani/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghna-gururani/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/meghna-gururani/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/meghna-gururani/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna-gururani/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
