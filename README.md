@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/meghna-gururani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meghna-gururani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/meghna-gururani/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/meghna-gururani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meghna-gururani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/meghna-gururani/LeetCode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/meghna-gururani/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/meghna-gururani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/meghna-gururani/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/meghna-gururani/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/meghna-gururani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/meghna-gururani/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghna-gururani/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2486-most-frequent-even-element](https://github.com/meghna-gururani/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna-gururani/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
