@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/meghna-gururani/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/meghna-gururani/LeetCode/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/meghna-gururani/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meghna-gururani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/meghna-gururani/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/meghna-gururani/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna-gururani/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meghna-gururani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/meghna-gururani/LeetCode/tree/master/2037-count-square-sum-triples) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meghna-gururani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
