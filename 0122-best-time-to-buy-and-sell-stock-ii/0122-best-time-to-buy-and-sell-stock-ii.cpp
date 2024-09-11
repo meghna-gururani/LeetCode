@@ -7,7 +7,7 @@ public:
             if(prices[i]<low){
                 low=prices[i];
             }
-            else if(profit<prices[i]-low){
+            else{
                 max_pro+=prices[i]-low;
                 i--;
                 low=INT_MAX;
