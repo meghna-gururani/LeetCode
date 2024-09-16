@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-calculate-amount-paid-in-taxes](https://github.com/meghna-gururani/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/meghna-gururani/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghna-gururani/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/meghna-gururani/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/meghna-gururani/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/meghna-gururani/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghna-gururani/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/meghna-gururani/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/meghna-gururani/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/meghna-gururani/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna-gururani/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
