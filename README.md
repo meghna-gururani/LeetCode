@@ -241,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/meghna-gururani/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/meghna-gururani/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
