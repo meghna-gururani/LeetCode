@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/meghna-gururani/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/meghna-gururani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/meghna-gururani/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghna-gururani/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/meghna-gururani/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/meghna-gururani/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/meghna-gururani/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/meghna-gururani/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/meghna-gururani/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/meghna-gururani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/meghna-gururani/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghna-gururani/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/meghna-gururani/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/meghna-gururani/LeetCode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/meghna-gururani/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/meghna-gururani/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2032-largest-odd-number-in-string](https://github.com/meghna-gururani/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/meghna-gururani/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2238-a-number-after-a-double-reversal](https://github.com/meghna-gururani/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
