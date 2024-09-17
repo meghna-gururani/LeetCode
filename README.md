@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/meghna-gururani/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/meghna-gururani/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/meghna-gururani/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3221-find-the-peaks](https://github.com/meghna-gururani/LeetCode/tree/master/3221-find-the-peaks) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meghna-gururani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/meghna-gururani/LeetCode/tree/master/2037-count-square-sum-triples) |
+| [3221-find-the-peaks](https://github.com/meghna-gururani/LeetCode/tree/master/3221-find-the-peaks) |
 ## Linked List
 |  |
 | ------- |
