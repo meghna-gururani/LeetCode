@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/meghna-gururani/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/meghna-gururani/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/meghna-gururani/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/meghna-gururani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/meghna-gururani/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/meghna-gururani/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/meghna-gururani/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/meghna-gururani/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/meghna-gururani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/meghna-gururani/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/meghna-gururani/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/meghna-gururani/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/meghna-gururani/LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/meghna-gururani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
