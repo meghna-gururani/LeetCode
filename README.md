@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/meghna-gururani/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghna-gururani/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1063-best-sightseeing-pair](https://github.com/meghna-gururani/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1241-decompress-run-length-encoded-list](https://github.com/meghna-gururani/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/meghna-gururani/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/meghna-gururani/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/meghna-gururani/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghna-gururani/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1063-best-sightseeing-pair](https://github.com/meghna-gururani/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Matrix
 |  |
 | ------- |
