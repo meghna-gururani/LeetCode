@@ -1,12 +1,7 @@
-# Write your MySQL query statement below
 SELECT 
     p.firstName, 
     p.lastName, 
-    a.city, 
-    a.state
+    (SELECT city FROM Address a WHERE a.personId = p.personId) AS city,
+    (SELECT state FROM Address a WHERE a.personId = p.personId) AS state
 FROM 
-    Person p
-LEFT JOIN 
-    Address a
-ON 
-    p.personId = a.personId;
+    Person p;
