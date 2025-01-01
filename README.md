@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/meghna-gururani/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/meghna-gururani/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/meghna-gururani/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/meghna-gururani/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/meghna-gururani/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/meghna-gururani/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/meghna-gururani/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/meghna-gururani/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/meghna-gururani/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/meghna-gururani/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/meghna-gururani/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
