@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/meghna-gururani/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/meghna-gururani/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghna-gururani/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/meghna-gururani/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2486-most-frequent-even-element](https://github.com/meghna-gururani/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/meghna-gururani/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/meghna-gururani/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1502-construct-k-palindrome-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/meghna-gururani/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/meghna-gururani/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/meghna-gururani/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/meghna-gururani/LeetCode/tree/master/0179-largest-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/meghna-gururani/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/meghna-gururani/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna-gururani/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/meghna-gururani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/meghna-gururani/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghna-gururani/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-construct-k-palindrome-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/meghna-gururani/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2486-most-frequent-even-element](https://github.com/meghna-gururani/LeetCode/tree/master/2486-most-frequent-even-element) |
