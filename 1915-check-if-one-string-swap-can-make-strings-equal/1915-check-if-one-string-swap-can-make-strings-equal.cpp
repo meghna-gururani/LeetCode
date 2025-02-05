@@ -4,17 +4,21 @@ public:
         if(s1==s2){
             return true;
         }
+        int count=0;
+        vector<char>res;
         for(int i=0;i<s1.length();i++){
-            for(int j=i+1;j<s1.length();j++){
-                string s3=s1;
-                char temp=s3[i];
-                s3[i]=s3[j];
-                s3[j]=temp;
-                if(s3==s2){
-                    return true;
-                }
+           if(s1[i]!=s2[i]){
+            count++;
+            res.push_back(s1[i]);
+            res.push_back(s2[i]);
+           }
+        }
+        if(count==2){
+            if(res[0]==res[3] && res[1]==res[2]){
+                return true;
             }
         }
         return false;
     }
+
 };
