@@ -21,6 +21,7 @@ public:
            }     
        } 
        return t[curr][prev]=res;
+       //no error cause implicit conversion bool to int (1 or 0)
     }
 
     bool canCross(vector<int>& stones) {
