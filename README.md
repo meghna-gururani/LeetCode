@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/meghna-gururani/LeetCode/tree/master/0403-frog-jump) |
 | [0539-minimum-time-difference](https://github.com/meghna-gururani/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0605-can-place-flowers](https://github.com/meghna-gururani/LeetCode/tree/master/0605-can-place-flowers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghna-gururani/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/meghna-gururani/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/meghna-gururani/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/meghna-gururani/LeetCode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/meghna-gururani/LeetCode/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/meghna-gururani/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/meghna-gururani/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
