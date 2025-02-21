@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/meghna-gururani/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/meghna-gururani/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/meghna-gururani/LeetCode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/meghna-gururani/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/meghna-gururani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/meghna-gururani/LeetCode/tree/master/0403-frog-jump) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/meghna-gururani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/meghna-gururani/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/meghna-gururani/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/meghna-gururani/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/meghna-gururani/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/meghna-gururani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
