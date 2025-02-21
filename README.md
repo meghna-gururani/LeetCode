@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-calculate-amount-paid-in-taxes](https://github.com/meghna-gururani/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/meghna-gururani/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghna-gururani/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/meghna-gururani/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/meghna-gururani/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/meghna-gururani/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/meghna-gururani/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
