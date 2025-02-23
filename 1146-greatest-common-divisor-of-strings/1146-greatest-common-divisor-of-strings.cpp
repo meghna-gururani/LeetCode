@@ -12,7 +12,7 @@ public:
         if(str1+str2!=str2+str1){
             return "";
         }
-        int gc=gcd(str2.length(),str1.length());
+        int gc=gcd(str2.length(),str1.length()); //gcd() prebuilt function in stl numeric
         return str1.substr(0,gc);
     }
 };
