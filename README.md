@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/meghna-gururani/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/meghna-gururani/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/meghna-gururani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/meghna-gururani/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/meghna-gururani/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/meghna-gururani/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/meghna-gururani/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/meghna-gururani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghna-gururani/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/meghna-gururani/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2486-most-frequent-even-element](https://github.com/meghna-gururani/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/meghna-gururani/LeetCode/tree/master/0807-custom-sort-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghna-gururani/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/meghna-gururani/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/meghna-gururani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/meghna-gururani/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/meghna-gururani/LeetCode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/meghna-gururani/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/meghna-gururani/LeetCode/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/meghna-gururani/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/meghna-gururani/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/meghna-gururani/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/meghna-gururani/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/meghna-gururani/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
