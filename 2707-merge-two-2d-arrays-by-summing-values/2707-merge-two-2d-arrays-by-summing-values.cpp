@@ -9,21 +9,21 @@ public:
               i++,j++;   
             }
             else if(nums1[i][0]<nums2[j][0]){
-                res.push_back({nums1[i][0],nums1[i][1]});
+                res.push_back(nums1[i]);
                 i++;
             }
             else{
-                res.push_back({nums2[j][0],nums2[j][1]});
+                res.push_back(nums2[j]);
                 j++;
             }
             k++;
         }
     while(i<nums1.size()){
-        res.push_back({nums1[i][0],nums1[i][1]});
+        res.push_back(nums1[i]);
                 i++; 
     }
     while(j<nums2.size()){
-     res.push_back({nums2[j][0],nums2[j][1]});
+     res.push_back(nums2[j]);
                 j++;
     }
     return res;
