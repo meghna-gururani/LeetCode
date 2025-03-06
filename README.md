@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/meghna-gururani/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/meghna-gururani/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3221-find-the-peaks](https://github.com/meghna-gururani/LeetCode/tree/master/3221-find-the-peaks) |
+| [3227-find-missing-and-repeated-values](https://github.com/meghna-gururani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meghna-gururani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/meghna-gururani/LeetCode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/meghna-gururani/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/meghna-gururani/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/meghna-gururani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna-gururani/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meghna-gururani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/meghna-gururani/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/meghna-gururani/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/meghna-gururani/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/meghna-gururani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3568-find-the-key-of-the-numbers](https://github.com/meghna-gururani/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Recursion
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/meghna-gururani/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/meghna-gururani/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/meghna-gururani/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [3227-find-missing-and-repeated-values](https://github.com/meghna-gururani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
