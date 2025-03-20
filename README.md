@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/meghna-gururani/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/meghna-gururani/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/meghna-gururani/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1585-the-kth-factor-of-n](https://github.com/meghna-gururani/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/meghna-gururani/LeetCode/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/meghna-gururani/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/meghna-gururani/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/meghna-gururani/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/meghna-gururani/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/meghna-gururani/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
