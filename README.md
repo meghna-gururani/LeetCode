@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/meghna-gururani/LeetCode/tree/master/0605-can-place-flowers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghna-gururani/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1036-rotting-oranges](https://github.com/meghna-gururani/LeetCode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/meghna-gururani/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1241-decompress-run-length-encoded-list](https://github.com/meghna-gururani/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/meghna-gururani/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/meghna-gururani/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/meghna-gururani/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/meghna-gururani/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/meghna-gururani/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/meghna-gururani/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/meghna-gururani/LeetCode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/meghna-gururani/LeetCode/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghna-gururani/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/meghna-gururani/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Monotonic Stack
