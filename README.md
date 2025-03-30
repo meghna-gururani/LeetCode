@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/meghna-gururani/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/meghna-gururani/LeetCode/tree/master/0547-number-of-provinces) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghna-gururani/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/meghna-gururani/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/meghna-gururani/LeetCode/tree/master/0547-number-of-provinces) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghna-gururani/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/meghna-gururani/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/meghna-gururani/LeetCode/tree/master/0547-number-of-provinces) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/meghna-gururani/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/meghna-gururani/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
