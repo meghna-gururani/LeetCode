@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/meghna-gururani/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/meghna-gururani/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/meghna-gururani/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/meghna-gururani/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/meghna-gururani/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3221-find-the-peaks](https://github.com/meghna-gururani/LeetCode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/meghna-gururani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
