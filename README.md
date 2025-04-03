@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/meghna-gururani/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/meghna-gururani/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/meghna-gururani/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/meghna-gururani/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/meghna-gururani/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/meghna-gururani/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/meghna-gururani/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
