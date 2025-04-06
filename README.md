@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/meghna-gururani/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/meghna-gururani/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/meghna-gururani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/meghna-gururani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/meghna-gururani/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/meghna-gururani/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/meghna-gururani/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/meghna-gururani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meghna-gururani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/meghna-gururani/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/meghna-gururani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/meghna-gururani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/meghna-gururani/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/meghna-gururani/LeetCode/tree/master/1791-richest-customer-wealth) |
