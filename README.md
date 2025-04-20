@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/meghna-gururani/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meghna-gururani/LeetCode/tree/master/0013-roman-to-integer) |
+| [0072-edit-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/meghna-gururani/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/meghna-gururani/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/meghna-gururani/LeetCode/tree/master/0242-valid-anagram) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/meghna-gururani/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/meghna-gururani/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/meghna-gururani/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meghna-gururani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/meghna-gururani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/meghna-gururani/LeetCode/tree/master/0152-maximum-product-subarray) |
