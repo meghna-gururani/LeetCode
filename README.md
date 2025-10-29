@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/meghna-gururani/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/meghna-gururani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3568-find-the-key-of-the-numbers](https://github.com/meghna-gururani/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/meghna-gururani/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/meghna-gururani/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/meghna-gururani/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/meghna-gururani/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/meghna-gururani/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting Sort
 |  |
 | ------- |
