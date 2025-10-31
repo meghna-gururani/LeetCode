@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/meghna-gururani/LeetCode/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/meghna-gururani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meghna-gururani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meghna-gururani/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/meghna-gururani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/meghna-gururani/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/meghna-gururani/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meghna-gururani/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/meghna-gururani/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/meghna-gururani/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3568-find-the-key-of-the-numbers](https://github.com/meghna-gururani/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meghna-gururani/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/meghna-gururani/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
